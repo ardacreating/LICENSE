@@ -1,4 +1,4 @@
-APACHE License
+MIT License
 
 Copyright (c) 2023 ardacoding - ardacreating
 
